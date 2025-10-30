@@ -20,5 +20,3 @@ Tujuan utama aplikasi ini adalah memberikan **notifikasi otomatis melalui Telegr
 2. Sistem menyimpan daftar klien sebelumnya untuk dibandingkan dengan daftar baru.
 3. Jika ada klien yang hilang, sistem menganggapnya **offline**.
 4. Fungsi `SendTelegramMessage()` memanggil **Telegram Bot API** untuk mengirim pesan alert.
-
-Contoh notifikasi:
