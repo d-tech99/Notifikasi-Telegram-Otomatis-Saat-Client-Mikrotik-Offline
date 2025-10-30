@@ -1,0 +1,54 @@
+D:\Project\VB Desktop\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+D:\Project\VB Desktop\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+D:\Project\VB Desktop\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+D:\Project\VB Desktop\Monitoring\Monitoring\bin\Debug\Monitoring.xml
+D:\Project\VB Desktop\Monitoring\Monitoring\bin\Debug\tik4net.dll
+D:\Project\VB Desktop\Monitoring\Monitoring\bin\Debug\tik4net.objects.dll
+D:\Project\VB Desktop\Monitoring\Monitoring\bin\Debug\tik4net.xml
+D:\Project\VB Desktop\Monitoring\Monitoring\bin\Debug\tik4net.objects.xml
+D:\Project\VB Desktop\Monitoring\Monitoring\obj\Debug\Monitoring.vbproj.AssemblyReference.cache
+D:\Project\VB Desktop\Monitoring\Monitoring\obj\Debug\Monitoring.Form1.resources
+D:\Project\VB Desktop\Monitoring\Monitoring\obj\Debug\Monitoring.Resources.resources
+D:\Project\VB Desktop\Monitoring\Monitoring\obj\Debug\Monitoring.vbproj.GenerateResource.cache
+D:\Project\VB Desktop\Monitoring\Monitoring\obj\Debug\Monitoring.vbproj.CoreCompileInputs.cache
+D:\Project\VB Desktop\Monitoring\Monitoring\obj\Debug\Monitoring.vbproj.Up2Date
+D:\Project\VB Desktop\Monitoring\Monitoring\obj\Debug\Monitoring.exe
+D:\Project\VB Desktop\Monitoring\Monitoring\obj\Debug\Monitoring.xml
+D:\Project\VB Desktop\Monitoring\Monitoring\obj\Debug\Monitoring.pdb
+D:\Project\VB Desktop\Monitoring\Monitoring\obj\Debug\Monitoring.exe.config
+G:\D-Tech Project\App Project\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+G:\D-Tech Project\App Project\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+G:\D-Tech Project\App Project\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+G:\D-Tech Project\App Project\Monitoring\Monitoring\bin\Debug\Monitoring.xml
+G:\D-Tech Project\App Project\Monitoring\Monitoring\bin\Debug\tik4net.dll
+G:\D-Tech Project\App Project\Monitoring\Monitoring\bin\Debug\tik4net.objects.dll
+G:\D-Tech Project\App Project\Monitoring\Monitoring\bin\Debug\tik4net.xml
+G:\D-Tech Project\App Project\Monitoring\Monitoring\bin\Debug\tik4net.objects.xml
+G:\D-Tech Project\App Project\Monitoring\Monitoring\obj\Debug\Monitoring.vbproj.AssemblyReference.cache
+G:\D-Tech Project\App Project\Monitoring\Monitoring\obj\Debug\Monitoring.exe.config
+G:\D-Tech Project\App Project\Monitoring\Monitoring\obj\Debug\Monitoring.Form1.resources
+G:\D-Tech Project\App Project\Monitoring\Monitoring\obj\Debug\Monitoring.Resources.resources
+G:\D-Tech Project\App Project\Monitoring\Monitoring\obj\Debug\Monitoring.vbproj.GenerateResource.cache
+G:\D-Tech Project\App Project\Monitoring\Monitoring\obj\Debug\Monitoring.vbproj.CoreCompileInputs.cache
+G:\D-Tech Project\App Project\Monitoring\Monitoring\obj\Debug\Monitoring.vbproj.Up2Date
+G:\D-Tech Project\App Project\Monitoring\Monitoring\obj\Debug\Monitoring.exe
+G:\D-Tech Project\App Project\Monitoring\Monitoring\obj\Debug\Monitoring.xml
+G:\D-Tech Project\App Project\Monitoring\Monitoring\obj\Debug\Monitoring.pdb
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\bin\Debug\Monitoring.exe.config
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\bin\Debug\Monitoring.exe
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\bin\Debug\Monitoring.pdb
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\bin\Debug\Monitoring.xml
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\bin\Debug\tik4net.dll
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\bin\Debug\tik4net.objects.dll
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\bin\Debug\tik4net.xml
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\bin\Debug\tik4net.objects.xml
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\obj\Debug\Monitoring.vbproj.AssemblyReference.cache
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\obj\Debug\Monitoring.exe.config
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\obj\Debug\Monitoring.Form1.resources
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\obj\Debug\Monitoring.Resources.resources
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\obj\Debug\Monitoring.vbproj.GenerateResource.cache
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\obj\Debug\Monitoring.vbproj.CoreCompileInputs.cache
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\obj\Debug\Monitoring.vbproj.Up2Date
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\obj\Debug\Monitoring.exe
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\obj\Debug\Monitoring.xml
+G:\D-Tech Project\App Project\Monitoring2\Monitoring\obj\Debug\Monitoring.pdb
